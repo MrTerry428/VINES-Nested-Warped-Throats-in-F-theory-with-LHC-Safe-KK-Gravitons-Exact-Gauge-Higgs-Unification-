@@ -4,7 +4,7 @@ VINES: Nested Warped Throats in F-theory with LHC-Safe KK Gravitons, Exact Gauge
 Licensed under Creative Commons Attribution–NonCommercial–ShareAlike 4.0 International.
 This is exceptionally testable and predictive. It likely ranks as the #1 string-derived candidate in 2025–2035 for experimental confirmation, across multiple independent observables.
 
-09 December 2025
+03 December 2025
 Terry L. Vines& Terry D. Vines
 Independent Researcher
 madscientistunion@gmail.com (mailto:madscientistunion@gmail.com)
