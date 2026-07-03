@@ -1,5 +1,8 @@
 VINES-IIB 2026 Update
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+
 Licensed under CC BY-NC-SA 4.0
+
 The Robust Graviton Mass Window in a Single Warped Type IIB Klebanov-Strassler Throat Framework: Persistence of Complete Unification, Warp Drive, and Zero-Point Energy Harvesting Across the Full Allowed Range\
 
 Terry L  Vines and Terry D Vines 
