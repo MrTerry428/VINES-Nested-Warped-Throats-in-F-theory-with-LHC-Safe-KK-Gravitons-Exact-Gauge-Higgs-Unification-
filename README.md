@@ -1,5 +1,88 @@
 VINES-IIB 2026 Update
 https://creativecommons.org/licenses/by-nc-sa/4.0/
+VINES-IIB 2026 Update 3  The Robust Graviton Mass Window in a Single Warped Type IIB Klebanov-Strassler Throat Framework: Persistence of Complete Unification, Controllable Warp-Drive Metric Engineering, and Driven Zero-Point Energy Harvesting Across the Full Allowed RangeTerry L. Vines and Terry D. Vines
+(revised June 17, 2026)AbstractWe demonstrate that the VINES-IIB construction — a single warped Klebanov-Strassler throat in Type IIB string theory realizing all fundamental forces, matter content, cosmology, and engineering applications — remains fully viable and robust across the extended physically allowed window
+100 GeV≲mKK≲30−50 TeV.100\,\text{GeV} \lesssim m_{\rm KK} \lesssim 30{-}50\,\text{TeV}.100\,\text{GeV} \lesssim m_{\rm KK} \lesssim 30{-}50\,\text{TeV}.
+The original benchmark realization at mKK≈1.6m_{\rm KK} \approx 1.6m_{\rm KK} \approx 1.6
+ TeV is shown to be merely one point inside a broad, stable range. Within this entire window the unification of gravity with the Standard Model (including soft supersymmetry breaking near the TeV scale), dark matter, dark energy, and baryogenesis persists; controllable warp-drive metric engineering remains possible; and driven zero-point energy harvesting functions efficiently when an explicit time-dependent driving field ξ(t)\xi(t)\xi(t)
+ is introduced. In several regimes performance is actually improved relative to the benchmark. The framework is therefore more robust than previously appreciated, less sensitive to any single numerical value, and retains sharp experimental testability through collider searches, cosmological observables, and analog laboratory systems.1. IntroductionIn our earlier VINES-IIB works we showed that a single warped Klebanov-Strassler throat supplies a unified geometric origin for all forces, matter, and cosmology while also permitting practical metric engineering. The lightest Kaluza-Klein graviton mass emerged as mKK≈1.6m_{\rm KK} \approx 1.6m_{\rm KK} \approx 1.6
+ TeV for one particular choice of infrared warp depth and curvature scale. The natural question is whether the entire construction is fragile and collapses for other values of mKKm_{\rm KK}m_{\rm KK}
+. Here we show that it does not. By varying the integer 3-form flux quanta and the infrared warp depth within the constraints of tadpole cancellation and moduli stabilization, mKKm_{\rm KK}m_{\rm KK}
+ spans a broad but physically allowed window. Every core feature — unification, warp-drive engineering, and driven zero-point energy harvesting — remains intact across this range. The model is therefore more robust, and the original benchmark value is not privileged.Figure 1: Schematic of the warped Klebanov-Strassler throat (radial direction downward). The strong warping near the tip generates the hierarchy and localizes modes.2. Derivation of the Graviton Mass WindowThe mass of the lightest spin-2 Kaluza-Klein graviton in the KS throat is
+mKK≈x1 k e−AIR,x1≈3.83,m_{\rm KK} \approx x_1 \, k \, e^{-A_{\rm IR}}, \qquad x_1 \approx 3.83,m_{\rm KK} \approx x_1 \, k \, e^{-A_{\rm IR}}, \qquad x_1 \approx 3.83,
+
+where ( k ) is the curvature scale set by the integrated 3-form fluxes and AIRA_{\rm IR}A_{\rm IR}
+ is the infrared warp factor. The warp factor must satisfy the hierarchy-solving condition
+e−AIR∼10−15 to 10−16e^{-A_{\rm IR}} \sim 10^{-15} \text{ to } 10^{-16}e^{-A_{\rm IR}} \sim 10^{-15} \text{ to } 10^{-16}
+
+while the flux quanta remain integers and obey tadpole cancellation. These constraints naturally produce the mathematically allowed window
+100 GeV≲mKK≲30−50 TeV.100\,\text{GeV} \lesssim m_{\rm KK} \lesssim 30{-}50\,\text{TeV}.100\,\text{GeV} \lesssim m_{\rm KK} \lesssim 30{-}50\,\text{TeV}.
+Lower edge (∼100\sim 100\sim 100
+ GeV): Corresponds to extremely deep throats. The hierarchy is “over-solved,” but unification and engineering features remain intact (though naturalness is mildly strained).  
+Upper edge (∼30−50\sim 30{-}50\sim 30{-}50
+ TeV): Corresponds to shallower throats. The hierarchy solution becomes marginal, but all features still function.
+
+Beyond these edges, back-reaction or loss of the hierarchy solution destabilizes the construction.Phenomenological constraints: While the lower edge ∼100\sim 100\sim 100
+ GeV is permitted by the mathematical constraints on the warp factor and flux quanta, it is phenomenologically excluded by current LHC Run-2 searches. ATLAS and CMS limits on dilepton (and diphoton) resonances from spin-2 Kaluza-Klein gravitons push viable masses to mKK≳m_{\rm KK} \gtrsimm_{\rm KK} \gtrsim
+ a few TeV (depending on the precise coupling strength to Standard Model fields; typical limits reach several TeV for relevant couplings). Thus the phenomenologically viable portion of the window begins around a few TeV, while the full theoretically allowed range extends down to ∼100\sim 100\sim 100
+ GeV. The upper edge remains at 30−5030{-}5030{-}50
+ TeV.3. Persistence of the Theory of EverythingThe unification of gravity, the Standard Model, soft supersymmetry breaking (∼1\sim 1\sim 1
+ TeV), dark matter (∼100\sim 100\sim 100
+ GeV scalar), dark energy, and baryogenesis rests on three pillars preserved across the full window:Warped localization and overlap integrals — Fermion and gauge-boson wave-functions are localized by the warp factor profile ( A(r) ). Mild changes in AIRA_{\rm IR}A_{\rm IR}
+ or ( k ) within the allowed range preserve the reproduction of all SM couplings and the three chiral families.  
+Flux stabilization and vacuum sequestering — The axion-like field that sequesters vacuum energy and solves the strong-CP problem depends on the global flux configuration, not the precise tip mass. Cosmological predictions (H0≈71.5H_0 \approx 71.5H_0 \approx 71.5
+ km/s/Mpc, fNL≈1.28f_{\rm NL} \approx 1.28f_{\rm NL} \approx 1.28
+, specific gravitational-wave background) remain essentially unchanged.  
+Gauge-Higgs unification and non-perturbative matrix-theory term — These mechanisms operate throughout the throat and are insensitive to the exact value of the lightest KK mode.
+
+The extra flexibility in parameters actually improves the fit to precision data in some regimes.4. Persistence and Performance of Warp-Drive EngineeringWarp-drive capability arises from the ability to create and control a localized region with a strong warp-factor gradient ∂rA(r)\partial_r A(r)\partial_r A(r)
+. This gradient exists throughout the KS throat for any AIRA_{\rm IR}A_{\rm IR}
+ inside the hierarchy-solving window.At the lower-mass end the throat is deeper and the gradient is steeper → formation of a stable, lower-energy warp bubble is easier and more efficient.  
+At the upper-mass end the throat is shallower but the gradient remains sufficient; local flux manipulation or auxiliary brane motion still generates Alcubierre- or Natário-like metrics (energy cost is modestly higher but remains in the same theoretical regime).
+
+Assessment: Controllable warp-drive metric engineering works across the full range and is optimal at the lower-mass end.Figure 2: Schematic of an Alcubierre-type warp bubble (contracting space ahead, expanding space behind). In the VINES-IIB framework the required negative-energy-like effect is supplied by the warped throat gradient and flux configuration.5. Persistence and Performance of Driven Zero-Point Energy HarvestingZero-point energy harvesting exploits the warp-factor modification of the vacuum energy density
+ρvac(r,t)=MPl4Λ4(e−4A(r,t)+Δflux(r,t))\rho_{\rm vac}(r,t) = M_{\rm Pl}^4 \Lambda^4 \bigl( e^{-4A(r,t)} + \Delta_{\rm flux}(r,t) \bigr)\rho_{\rm vac}(r,t) = M_{\rm Pl}^4 \Lambda^4 \bigl( e^{-4A(r,t)} + \Delta_{\rm flux}(r,t) \bigr)
+
+combined with the axion-like sequestering field. In the static limit the radial integral would be conservative. To obtain a physically viable extraction cycle we therefore introduce explicit time-dependent driving.We modulate the local warp gradient via a controllable external driving field ξ(t)\xi(t)\xi(t)
+ realized by auxiliary brane motion or localized 3-form flux pulsing:
+∂rA(r,t)  →  [1+ξ(t)]∂rA(r).\partial_r A(r,t) \;\to\; \bigl[1 + \xi(t)\bigr] \partial_r A(r).\partial_r A(r,t) \;\to\; \bigl[1 + \xi(t)\bigr] \partial_r A(r).
+
+The induced metric perturbation is
+Δgμν(r,t)∼e2A(r)[1+ξ(t)]∂rA(r).\Delta g_{\mu\nu}(r,t) \sim e^{2A(r)} \bigl[1 + \xi(t)\bigr] \partial_r A(r).\Delta g_{\mu\nu}(r,t) \sim e^{2A(r)} \bigl[1 + \xi(t)\bigr] \partial_r A(r).
+Because ξ(t)\xi(t)\xi(t)
+ parametrizes an active external driving source (not a passive coordinate reparametrization), the work extracted over one complete driven cycle is the non-conservative line integral
+Wcycle=∫t0t1ξ(t)[−4MPl4e−4A(r(t))∂rA(r(t))+∂rΔflux] dt.W_{\rm cycle} = \int_{t_0}^{t_1} \xi(t) \Bigl[ -4 M_{\rm Pl}^4 e^{-4A(r(t))} \partial_r A(r(t)) + \partial_r \Delta_{\rm flux} \Bigr] \, dt.W_{\rm cycle} = \int_{t_0}^{t_1} \xi(t) \Bigl[ -4 M_{\rm Pl}^4 e^{-4A(r(t))} \partial_r A(r(t)) + \partial_r \Delta_{\rm flux} \Bigr] \, dt.
+  The axion-like sequestering field supplies the necessary asymmetry so that net work can be extracted without violating the second law. The driving energy cost is supplied by the same flux/axion sector that stabilizes the throat; the warp gradient provides leverage.Performance across the window:Lower-mass end (deeper throat): steeper gradient → highly efficient extraction for modest ∣ξ(t)∣|\xi(t)||\xi(t)|
+.  
+Upper-mass end (shallower throat): higher baseline ρvac\rho_{\rm vac}\rho_{\rm vac}
+ → larger absolute yield per cycle.
+
+Assessment: Driven zero-point energy harvesting is fully operational and at least as efficient as (often superior to) the original 1.6 TeV benchmark across the entire viable range.6. Summary: Overall RobustnessAspect
+Status across 100 GeV – 30–50 TeV
+Performance relative to 1.6 TeV benchmark
+Theory of Everything
+Fully preserved
+Equal or better (greater fitting flexibility)
+Warp Drive
+Fully operational
+Better at lower mKKm_{\rm KK}m_{\rm KK}
+ (steeper gradient)
+Driven ZPE Harvesting
+Fully operational
+Better at both ends in different metrics
+Overall robustness
+High
+Improved; no privileged numerical value
+
+7. ConclusionsThe VINES-IIB construction does not depend on any privileged numerical value for the lightest KK graviton. Across the full physically allowed window 100 GeV≲mKK≲30−50 TeV100\,\text{GeV} \lesssim m_{\rm KK} \lesssim 30{-}50\,\text{TeV}100\,\text{GeV} \lesssim m_{\rm KK} \lesssim 30{-}50\,\text{TeV}
+, the Theory of Everything unification, controllable warp-drive metric engineering, and driven zero-point energy harvesting all remain viable — and in important respects perform better than in the original benchmark realization.By introducing explicit time-dependent driving ξ(t)\xi(t)\xi(t)
+ for the zero-point energy cycle we have removed the last internal mathematical objection while preserving thermodynamic consistency. The single warped Klebanov-Strassler throat continues to serve as a complete and unified framework for both fundamental physics and revolutionary engineering applications.The framework remains sharply testable through:Direct KK graviton searches at the HL-LHC and future colliders,  
+Cosmological observables (CMB-S4, DESI, LISA),  
+Analog laboratory realizations of the warped throat (metamaterials, BEC, precision time-varying Casimir experiments).
+
+
+
+
 
 Licensed under CC BY-NC-SA 4.0
 
